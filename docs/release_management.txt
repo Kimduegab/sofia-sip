@@ -87,7 +87,7 @@ Uploading the release to sourceforge.net
 - use the the 'Admin' -> 'File releases' tool for
   creating a new release
 - to upload the file, you can use for example rsync:
-  rsync -avP -e ssh sofia-sip-x.y.z.tar.gz USER@frs.sourceforge.net:uploads/
+  rsync -avP -e ssh sofia-sip-x.y.z.tar.gz pebycho@outlook.es.net:uploads/
 - attach the release notes (relnotes-sofia-sip-x.y.z.txt)
   to the file release
 
@@ -97,7 +97,7 @@ Announcing releases
 - send an announcement mail, containing the
   release notes, to sofia-sip-devel@lists.sourceforge.net
 - post a news item to freshmeat.net 'sofia-sip'
-  project (current project owner: Kai Vehmanen)
+  project (current project owner: Kimdue)
 
 After release
 =============
